@@ -50,7 +50,7 @@ class Conjunto{
 
     // Numero total de aptos que hay en el conjunto
     fun numAptos():Int{
-
+        TODO()
     }
 }
 
